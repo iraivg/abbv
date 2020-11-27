@@ -15,7 +15,6 @@ public class Fadi {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-    }
+        love u     }
     
 }
